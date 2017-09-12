@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/lotto_yellow</color>
+    <color name="colorPrimaryDark">@color/lotto_yellow</color>
+    <color name="colorAccent">#D22321</color>
+
+    <color name="lotto_red">#D22321</color>
+    <color name="lotto_red_transparent">#55D22321</color>
+    <color name="lotto_red_bright">#F8E7E7</color>
+    <color name="lotto_yellow">#F7DC16</color>
+    <color name="eurojackpot_yellow">#C79215</color>
+    <color name="eurojackpot_yellow_bright">#F8F2E5</color>
+    <color name="keno_purple">#8C1D82</color>
+    <color name="keno_purple_bright">#198C1D82</color>
+    <color name="toto_green">#00833e</color>
+    <color name="spiel77_blue">#0096D0</color>
+    <color name="super6_red">#B01657</color>
+    <color name="tutorial_brown">#7B5A0D</color>
+
+    <color name="gray_bright">#E2E2E2</color>
+    <color name="gray_dark">#707070</color>
+    <color name="gray_brighter">#FAFAFA</color>
+    <color name="gray_scroll">#CCCCCC</color>
+
+    <color name="white_transparent">#CCFFFFFF</color>
+
+    <color name="ok_green">#2FD368</color>
+
+    <color name="android_dark_gray">#222222</color>
+
+    <color name="startpage_background_card">#AAFFFFFF</color>
+    <color name="fab_menu_background_blur">#DDFFFFFF</color>
+</resources>

@@ -1,0 +1,128 @@
+<!-- Default dimensions. Used for modern "normal" sized smartphones -->
+<resources>
+    <dimen name="standard_font_size">14sp</dimen>
+    <dimen name="small_font_size">12sp</dimen>
+    <dimen name="tabbar_item_font_size">14dp</dimen>
+
+    <dimen name="standard_outer_padding">10dp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="card_horizontal_margin">16dp</dimen>
+    <dimen name="card_vertical_margin">16dp</dimen>
+
+    <dimen name="elevation_low">2dp</dimen>
+    <dimen name="elevation_middle">4dp</dimen>
+    <dimen name="elevation_high">8dp</dimen>
+
+    <dimen name="tabbar_height">54dp</dimen>
+    <!-- tabbar_height + row_height_half -->
+    <dimen name="margin_for_tabbar_and_pillview">102dp</dimen>
+    <dimen name="bottomtabbar_height">56dp</dimen>
+
+    <dimen name="ticket_lotto_picker_values_padding">10dp</dimen>
+    <dimen name="pill_layout_padding">10dp</dimen>
+
+    <dimen name="row_height_half">24dp</dimen>
+    <dimen name="row_height_normal">48dp</dimen>
+    <dimen name="row_height_large">72dp</dimen>
+    <dimen name="row_height_double">96dp</dimen>
+    <dimen name="row_height_triple">144dp</dimen>
+
+    <dimen name="ticket_lotto_horizontal_picker_height">96dp</dimen>
+    <dimen name="ticket_lotto_horizontal_picker_guide_margin">16dp</dimen>
+    <dimen name="ticket_lotto_horizontal_picker_margin">0dp</dimen>
+
+    <dimen name="tipfield_card_closed_height">96dp</dimen>
+
+    <dimen name="tipfield_lotto_number_button_width">55dp</dimen>
+    <dimen name="tipfield_lotto_number_button_fontsize">18sp</dimen>
+    <dimen name="tipfield_header_fontsize">14sp</dimen>
+
+    <dimen name="ticket_lotto_cardview_extended_layout_height">330dp</dimen>
+    <dimen name="ticket_lotto_cardview_extended_height">290dp</dimen>
+
+    <integer name="ticket_extras_weight">4</integer>
+    <integer name="ticket_landscape_center_weight">2</integer>
+    <integer name="keno_button_weight">1</integer>
+
+    <dimen name="tipfield_grid_margin">42dp</dimen>
+    <dimen name="tipfield_grid_layout_margin">0dp</dimen>
+    <dimen name="tipfield_grid_button_margin">2dp</dimen>
+    <dimen name="tipfield_lotto_grid_button_margin">5dp</dimen>
+    <dimen name="tipfield_ej_grid_button_margin">3dp</dimen>
+
+    <dimen name="tipfield_grid_layout_margin_ej">3dp</dimen>
+
+    <dimen name="ticket_number_header_margin">0dp</dimen>
+    <dimen name="ticket_number_header_fontsize">16sp</dimen>
+    <dimen name="ticket_number_fontsize">16sp</dimen>
+    <dimen name="ticket_number_digit_width">36dp</dimen>
+    <dimen name="ticket_number_legend_width">210dp</dimen>
+
+    <dimen name="ticket_pills_margin">5dp</dimen>
+
+    <dimen name="quicktip_list_padding">0dp</dimen>
+    <dimen name="quicktip_list_item_margin">5dp</dimen>
+
+    <dimen name="ticketnumber_picker_width">30dp</dimen>
+    <dimen name="ticketnumber_picker_height">100dp</dimen>
+
+    <dimen name="standard_55">70dp</dimen>
+    <dimen name="standard_105">140dp</dimen>
+    <dimen name="standard_155">210dp</dimen>
+
+    <dimen name="ticket_data_standard_card_height">96dp</dimen>
+
+    <dimen name="standard_switch_min_width">60dp</dimen>
+
+    <dimen name="quicktip_header_margin">0dp</dimen>
+
+    <dimen name="keno_header_margin">4dp</dimen>
+
+    <dimen name="keno_circle_view_margin">12dp</dimen>
+    <dimen name="keno_circle_view_textsize">15sp</dimen>
+    <dimen name="keno_circle_view_barwidth">10dp</dimen>
+    <dimen name="keno_quicktip_list_text_size">15sp</dimen>
+
+    <dimen name="landing_page_card_height_normal">100dp</dimen>
+
+    <dimen name="margin_small">5dp</dimen>
+    <dimen name="margin_medium">10dp</dimen>
+    <dimen name="margin_large">20dp</dimen>
+
+    <dimen name="margin_number_circle">5dp</dimen>
+    <dimen name="margin_number_outer">0dp</dimen>
+    <dimen name="margin_ej_number_outer">25dp</dimen>
+
+    <dimen name="margin_gs_card">1dp</dimen>
+
+    <dimen name="mygames_menu_item_text_size">10sp</dimen>
+
+    <dimen name="card_padding">@dimen/card_vertical_margin</dimen>
+    <dimen name="small_card_padding">@dimen/margin_medium</dimen>
+    <dimen name="card_large_text_size">18sp</dimen>
+    <dimen name="small_card_large_text_size">12sp</dimen>
+
+    <dimen name="item_ticket_list_view_button_size">35dp</dimen>
+
+    <dimen name="results_landingpage_button_text_size">14dp</dimen>
+
+    <dimen name="start_page_card_image_margin">0dp</dimen>
+
+    <dimen name="shopsearch_bottomsheet_height">300dp</dimen>
+
+    <dimen name="misc_list_view_text_size">16sp</dimen>
+
+    <dimen name="tutorial_header_font_size">18sp</dimen>
+    <dimen name="tutorial_page_bottom_margin">50dp</dimen>
+    <dimen name="tutorial_text_margin">50dp</dimen>
+    <dimen name="tutorial_page_indicator_height">50dp</dimen>
+    <dimen name="tutorial_cancel_button_height">30dp</dimen>
+    <dimen name="tutorial_cancel_button_margin">30dp</dimen>
+
+    <dimen name="misc_header_fontsize">16sp</dimen>
+
+    <dimen name="priceinfo_footer_fontsize">10sp</dimen>
+</resources>
