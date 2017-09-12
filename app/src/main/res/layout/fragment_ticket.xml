@@ -10,14 +10,14 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="HIER IST DAS TICKET FRAGMENT"/>
+        android:text="FIRST FRAGMENT"/>
 
 
     <Button
         android:id="@+id/show_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="SHOW TIPFIELD"/>
+        android:text="SHOW SECOND FRAGMENT"/>
 
 
 </LinearLayout>
